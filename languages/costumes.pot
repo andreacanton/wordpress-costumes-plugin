@@ -1,0 +1,80 @@
+# Copyright (C) 2019 Andrea Canton
+# This file is distributed under the same license as the Costumes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Costumes 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/costumes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-27T15:26:16+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ac-costumes\n"
+
+#. Plugin Name of the plugin
+#: costumes.php:26
+msgid "Costumes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create custom type for costumes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andrea Canton"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://andreacanton.com/"
+msgstr ""
+
+#: costumes.php:27
+msgid "Costume"
+msgstr ""
+
+#: costumes.php:28
+msgid "Add Costume"
+msgstr ""
+
+#: costumes.php:29
+msgid "Add New Costume"
+msgstr ""
+
+#: costumes.php:30
+msgid "Edit Costume"
+msgstr ""
+
+#: costumes.php:31
+msgid "New Costume"
+msgstr ""
+
+#: costumes.php:32
+msgid "View Costume"
+msgstr ""
+
+#: costumes.php:33
+msgid "View Costumes"
+msgstr ""
+
+#: costumes.php:34
+msgid "Search Costumes"
+msgstr ""
+
+#: costumes.php:35
+msgid "No Costumes found"
+msgstr ""
+
+#: costumes.php:36
+msgid "No Costumes found in Trash"
+msgstr ""
+
+#: costumes.php:37
+msgid "All Costumes"
+msgstr ""
+
+#: costumes.php:40
+msgid "Manage costumes"
+msgstr ""

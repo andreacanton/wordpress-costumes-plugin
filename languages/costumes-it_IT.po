@@ -1,0 +1,82 @@
+# Copyright (C) 2019 Andrea Canton
+# This file is distributed under the same license as the Costumes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Costumes 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/costumes\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-27T15:26:16+01:00\n"
+"PO-Revision-Date: 2019-12-27 15:29+0100\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: ac-costumes\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#. Plugin Name of the plugin
+#: costumes.php:26
+msgid "Costumes"
+msgstr "Costumi"
+
+#. Description of the plugin
+msgid "Create custom type for costumes"
+msgstr "Crea un tipo di contenuto per i costumi"
+
+#. Author of the plugin
+msgid "Andrea Canton"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://andreacanton.com/"
+msgstr ""
+
+#: costumes.php:27
+msgid "Costume"
+msgstr ""
+
+#: costumes.php:28
+msgid "Add Costume"
+msgstr "Aggiungi Costume"
+
+#: costumes.php:29
+msgid "Add New Costume"
+msgstr "Aggiungi Nuovo Costume"
+
+#: costumes.php:30
+msgid "Edit Costume"
+msgstr "Modifica Costume"
+
+#: costumes.php:31
+msgid "New Costume"
+msgstr "Nuovo Costume"
+
+#: costumes.php:32
+msgid "View Costume"
+msgstr "Visualizza Costume"
+
+#: costumes.php:33
+msgid "View Costumes"
+msgstr "Visualizza Costumi"
+
+#: costumes.php:34
+msgid "Search Costumes"
+msgstr "Cerca Costumi"
+
+#: costumes.php:35
+msgid "No Costumes found"
+msgstr "Nessun Costume trovato"
+
+#: costumes.php:36
+msgid "No Costumes found in Trash"
+msgstr "Nessun Costume trovato nel Cestino"
+
+#: costumes.php:37
+msgid "All Costumes"
+msgstr "Tutti i Costumi"
+
+#: costumes.php:40
+msgid "Manage costumes"
+msgstr "Gestisce costumi"
